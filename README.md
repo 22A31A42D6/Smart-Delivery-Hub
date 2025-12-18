@@ -1,4 +1,3 @@
-Smart Delivery Hub
 🔹 Project Description
 
 Smart Delivery Hub is a Salesforce-based CRM application designed to optimize last-mile delivery operations.
